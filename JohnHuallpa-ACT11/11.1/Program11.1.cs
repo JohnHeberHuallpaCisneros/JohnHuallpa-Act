@@ -94,7 +94,7 @@ namespace _11._1
             }
             Console.WriteLine("El pais con mayor temperatura trimestral es: " + PaisMayor);
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
         static void Main(string[] args)
         {
