@@ -58,7 +58,7 @@ namespace _11._3
             }
             Console.WriteLine("El empleado que falto menos dias fue: " + EmpleadoTop);
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
         static void Main(string[] args)
         {
