@@ -1,0 +1,7 @@
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\bin\Debug\11.3.exe.config
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\bin\Debug\11.3.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\bin\Debug\11.3.pdb
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\obj\Debug\11.3.csproj.AssemblyReference.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\obj\Debug\11.3.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\obj\Debug\11.3.exe
+C:\Users\alumno\Downloads\JohnHuallpa-ACT11\11.3\obj\Debug\11.3.pdb
