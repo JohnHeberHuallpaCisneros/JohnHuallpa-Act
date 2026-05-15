@@ -32,11 +32,11 @@ namespace _10._1
         public void ImprimirMatriz()
         {
             Console.WriteLine("La matriz es: ");
-            for(int i = 0; i < 5; i++)
+            for(int i = 0; i < 2; i++)
             {
-                for(int j = 0; j < 2; j++)
+                for(int j = 0; j < 5; j++)
                 {
-                    Console.Write(Matriz[j , i] + " ");
+                    Console.Write(Matriz[i , j] + " ");
                 }
                 Console.WriteLine();
             }
