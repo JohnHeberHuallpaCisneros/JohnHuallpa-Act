@@ -1,0 +1,14 @@
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.exe.config
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.exe
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.pdb
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.exe
+C:\Users\alumno.ET26\Downloads\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\bin\Debug\13.3.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT13-20260526T221506Z-3-001\JohnHuallpa-ACT13\13.3\obj\Debug\13.3.pdb
