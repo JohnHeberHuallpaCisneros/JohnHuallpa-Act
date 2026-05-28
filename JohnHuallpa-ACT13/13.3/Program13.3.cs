@@ -67,8 +67,7 @@ namespace _13._3
                 masAntiguo = socio3;
             }
 
-            Console.WriteLine("El socio más antiguo es: " +
-                              masAntiguo.RetornarNombre());
+            Console.WriteLine("El socio más antiguo es: " +  masAntiguo.RetornarNombre());
         }
 
         static void Main(string[] args)
