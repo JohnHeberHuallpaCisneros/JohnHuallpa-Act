@@ -1,0 +1,7 @@
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\bin\Debug\14.3.exe.config
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\bin\Debug\14.3.exe
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\bin\Debug\14.3.pdb
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\obj\Debug\14.3.csproj.AssemblyReference.cache
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\obj\Debug\14.3.csproj.CoreCompileInputs.cache
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\obj\Debug\14.3.exe
+C:\Users\alumno.ET26\source\repos\JohnHuallpa-ACT14\14.3\obj\Debug\14.3.pdb
