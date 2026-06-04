@@ -110,6 +110,7 @@ namespace _15._1
                     }
                 }
             }
+            Console.ReadKey();
         }
         static void Main(string[] args)
         {     SalaMonitoreo sala = new SalaMonitoreo();
