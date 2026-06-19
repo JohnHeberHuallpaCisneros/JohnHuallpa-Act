@@ -1,4 +1,4 @@
-﻿/*
+/*
 2. Plantear una clase Producto y otra clase Inventario.
 La clase Producto debe tener como atributos privados el nombre, precio y
 stock. Definir propiedades para acceder a estos atributos, asegurando que el
@@ -22,6 +22,12 @@ namespace _16._2
         private string nombre;
         private double precio;
         private int stock;
+        public Producto()
+        {
+            nombre = "";
+            precio = 0;
+            stock = 0;
+        }
 
         public string Nombre
         {
@@ -73,32 +79,29 @@ namespace _16._2
 
         public Inventario()
         {
-            productos[0] = new Producto();
-            productos[0].Nombre = "Leche";
-            productos[0].Precio = 5;
-            productos[0].Stock = 10;
+            for(int i = 0; i < productos.Length; i++)
+            {
+                productos[i] = new Producto();
 
-            productos[1] = new Producto();
-            productos[1].Nombre = "Cereal";
-            productos[1].Precio = 2;
-            productos[1].Stock = 1;
-
-            productos[2] = new Producto();
-            productos[2].Nombre = "cuchara";
-            productos[2].Precio = 6;
-            productos[2].Stock = 12;
+                Console.WriteLine("ingrese el nombre del producto");
+                productos[i].Nombre = Console.ReadLine();
+                Console.WriteLine("ingrese el precio del producto");
+                productos[i].Precio = int.Parse(Console.ReadLine());
+                Console.WriteLine("ingrese el stock del producto");
+                productos[i].Stock = int.Parse(Console.ReadLine());
+            }
         }
         public void ImprimirOrdenar()
         {
-            for(int i = 0; i < productos.Length - 1; i++)
+            for (int i = 0; i < productos.Length - 1; i++)
             {
-                for (int j = 0; j < productos.Length; j++)
+                for (int j = 0; j < productos.Length - 1; j++)
                 {
-                    if (productos[i].Precio > productos[i + 1].Precio)
+                    if (productos[j].Precio > productos[j + 1].Precio)
                     {
-                        double aux = productos[i].Precio;
-                        productos[i].Precio = productos[j].Precio;
-                        productos[j].Precio = aux;
+                        Producto aux = productos[j];
+                        productos[j] = productos[j + 1];
+                        productos[j + 1] = aux;
                     }
                 }
             }
