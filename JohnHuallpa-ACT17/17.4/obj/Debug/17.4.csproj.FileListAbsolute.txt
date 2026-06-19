@@ -1,0 +1,7 @@
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\bin\Debug\17.4.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\bin\Debug\17.4.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\bin\Debug\17.4.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\obj\Debug\17.4.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\obj\Debug\17.4.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\obj\Debug\17.4.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT17\17.4\obj\Debug\17.4.pdb

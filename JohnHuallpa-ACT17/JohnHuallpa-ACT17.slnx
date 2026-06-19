@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="17.1/17.1.csproj" />
+  <Project Path="17.2/17.2.csproj" />
+  <Project Path="17.3/17.3.csproj" />
+  <Project Path="17.4/17.4.csproj" />
+</Solution>
