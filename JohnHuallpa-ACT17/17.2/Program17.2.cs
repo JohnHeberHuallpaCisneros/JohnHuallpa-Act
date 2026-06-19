@@ -90,7 +90,7 @@ namespace _17._2
 
         public void MostrarCatalogo()
         {
-            Console.WriteLine("=== Catálogo ordenado por duración (mayor a menor) ===");
+            Console.WriteLine("Catálogo ordenado por duración (mayor a menor)");
 
             for (int i = 0; i < 3; i++)
             {
