@@ -1,4 +1,4 @@
-﻿/*
+/*
 1. Confeccionar una clase Persona que tenga como atributos el nombre y la
 edad (definir las propiedades para poder acceder a dichos atributos). Definir
 un método para imprimirlos. Plantear una segunda clase Empleado que
@@ -76,17 +76,22 @@ namespace _16._1
         static void Main(string[] args)
         {
             Persona p = new Persona();
-            p.Nombre = "Tapia";
-            p.Edad = 25;
+            Console.WriteLine("Ingrese el nombre de la persona: ");
+            p.Nombre = Console.ReadLine();
+            Console.WriteLine("Ingrese la edad de esa persona");
+            p.Edad = int.Parse( Console.ReadLine() );
 
             Console.WriteLine("Datos de la persona: ");
             p.Imprimir();
             Console.WriteLine();
 
             Empleado e = new Empleado();
-            e.Nombre = "Humongosaurio";
-            e.Edad = 33;
-            e.Sueldo = 150000;
+            Console.WriteLine("Ingrese el nombre del empleado: ");
+            e.Nombre = Console.ReadLine();
+            Console.WriteLine("Ingrese la edad de ese empleado: ");
+            e.Edad = int.Parse(Console.ReadLine());
+            Console.WriteLine("Ingrese el sueldo del empleado: ");
+            e.Sueldo = int.Parse( Console.ReadLine());
 
             Console.WriteLine("Datos de los empleados: ");
             e.Imprimir();
