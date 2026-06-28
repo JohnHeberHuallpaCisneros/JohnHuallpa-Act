@@ -1,0 +1,7 @@
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\bin\Debug\18.3.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\bin\Debug\18.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\bin\Debug\18.3.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\obj\Debug\18.3.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\obj\Debug\18.3.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\obj\Debug\18.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT18\18.3\obj\Debug\18.3.pdb
