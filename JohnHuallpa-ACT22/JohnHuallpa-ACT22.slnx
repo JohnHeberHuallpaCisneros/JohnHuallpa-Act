@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="22.1/22.1.csproj" Id="05b82935-0dae-4cf4-add9-9c7aeab6f78b" />
+  <Project Path="22.2/22.2.csproj" Id="eed9104f-c2a6-498f-90b7-dd2de08c0ea5" />
+  <Project Path="22.3/22.3.csproj" Id="cdf2f294-4e07-42fa-a867-b4912ec7b967" />
+  <Project Path="22.4/22.4.csproj" Id="7ab0bdcd-ba0e-4b24-b585-224fb8e04f4d" />
+  <Project Path="22.5/22.5.csproj" Id="8bb4fab5-45a4-4045-acee-87fe6e9c444a" />
+</Solution>

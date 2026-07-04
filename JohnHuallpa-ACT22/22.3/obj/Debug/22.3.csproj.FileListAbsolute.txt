@@ -1,0 +1,7 @@
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\bin\Debug\22.3.exe.config
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\bin\Debug\22.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\bin\Debug\22.3.pdb
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\obj\Debug\22.3.csproj.AssemblyReference.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\obj\Debug\22.3.csproj.CoreCompileInputs.cache
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\obj\Debug\22.3.exe
+C:\Users\John\OneDrive\Desktop\JohnHuallpa-ACT22-20260703T212823Z-3-001\JohnHuallpa-ACT22\22.3\obj\Debug\22.3.pdb
