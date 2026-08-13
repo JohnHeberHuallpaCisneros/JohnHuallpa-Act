@@ -1,0 +1,7 @@
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\obj\Debug\22.1.csproj.AssemblyReference.cache
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\obj\Debug\22.1.csproj.CoreCompileInputs.cache
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\bin\Debug\22.1.exe.config
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\bin\Debug\22.1.exe
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\bin\Debug\22.1.pdb
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\obj\Debug\22.1.exe
+C:\Users\John\Downloads\JohnHuallpa-ACT23-20260806T223658Z-1-001\JohnHuallpa-ACT23\22.1\obj\Debug\22.1.pdb
